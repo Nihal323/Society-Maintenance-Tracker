@@ -203,8 +203,3 @@ Executes 33 comprehensive API and workflow assertions verifying registration, lo
    In `prisma/schema.prisma`, update provider to `postgresql`, then run `npx prisma db push` or `npx prisma migrate deploy`.
 4. **Deploy**:
    Push to your GitHub repository and import into Vercel.
-
----
-
-## 📄 License
-This project is open-source and available under the **MIT License**.
